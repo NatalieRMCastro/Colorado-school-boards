@@ -13,9 +13,6 @@ from cdp_scrapers.youtube_utils import YoutubeIngestionScraper
 
 # This dictionary is ordered by size of the school district
 SCHOOL_BOARDS_AND_BODY_NAMES = {
-    "JCBE": {
-        "Jefferson County R-1": "Meeting",
-    },
     "adams12fivestarschools-esc86": {
         "Adams 12 Five Star Schools": "Board of Education Meeting",
     },
