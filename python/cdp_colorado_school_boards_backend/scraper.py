@@ -13,17 +13,17 @@ from cdp_scrapers.youtube_utils import YoutubeIngestionScraper
 
 # This dictionary is ordered by size of the school district
 SCHOOL_BOARDS_AND_BODY_NAMES = {
-    "DougCoSchools": {
-        "Douglas County School District": "BOE Meeting",
+    "JCBE": {
+        "Jefferson County R-1": "Meeting",
     },
     "adams12fivestarschools-esc86": {
         "Adams 12 Five Star Schools": "Board of Education Meeting",
     },
-    "psdondemand3088": {
-        "Poudre School District R-1": "Board of Education Meeting",
+    "greeleyschools": {
+        "Greely 6": "Board of Education",
     },
-    "bouldervalleyschooldistric5781": {
-        "Boulder Valley School District RE-2": "Board of Education Meeting",
+    "weldre5jschooldistrict852": {
+        "Johnstown-Milliken RE-5J": "Board",
     },
 }
 
