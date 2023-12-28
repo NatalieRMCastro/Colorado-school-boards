@@ -17,7 +17,7 @@ SCHOOL_BOARDS_AND_BODY_NAMES = {
         "Adams 12 Five Star Schools": "Board of Education Meeting",
     },
     "greeleyschools": {
-        "Greely 6": "Board of Education",
+        "Greeley 6": "Board of Education",
     },
     "weldre5jschooldistrict852": {
         "Johnstown-Milliken RE-5J": "Board",
